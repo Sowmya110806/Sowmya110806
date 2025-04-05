@@ -5,7 +5,7 @@ An enthusiastic and aspiring IT student passionate about leveraging technology t
 ## 🚀 About Me
 
 * 🎓 Studying [Btech] at [Velagapudi Ramakrishina Siddartha Engineering College].
-* 💻 Currently learning and exploring [ Python, JavaScript, React, SQL, AWS].
+* 💻 Currently learning and exploring [ Python, JavaScript].
 * 🌱 Eager to contribute to open-source projects and collaborate with fellow developers.
 * 💡 Always looking for opportunities to learn new technologies and expand my skillset.
 * 📫 You can reach me at [sowmyajonnalagadda1108@gmail.com] or connect with me on [(https://www.linkedin.com/in/sowmya-jonnalagadda-50bb822a2)].
