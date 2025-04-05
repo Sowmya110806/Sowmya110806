@@ -19,7 +19,7 @@ Here are some of the technologies and tools I'm familiar with:
 
 *Web Development:*
 * *Frontend:* [ HTML, CSS, JavaScript]
-* *Backend:* [ Django]indha
+* *Backend:* [ Django]
 
 *Other Skills:*
 * [ Problem-solving, Communication, Teamwork, Agile methodologies]
